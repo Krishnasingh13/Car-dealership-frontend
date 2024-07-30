@@ -14,6 +14,6 @@ Welcome to the frontend repository for the Car-Dealership project. This applicat
 - State Management: Redux
 - Others: Material UI, Socket.IO, Razorpay, ImageKit, Tailwind CSS
 ### Backend
-The backend for this project is at another repo : [Visit Backend](https://github.com/Priyanshu1112/Car-dealership-backend)
+The backend for this project is at another repo : [Visit Backend](https://github.com/Krishnasingh13/Car-dealership-backend)
 
 Feel free to contribute and open issues if you encounter any problems!
